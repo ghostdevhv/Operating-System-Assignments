@@ -1,0 +1,8 @@
+For the first part of the question (dls.c) 
+-> Create a text file containing elements of array.
+-> Now open terminal and type gcc dls.c and then enter
+-> Now type ./a.out <textfile path> <Element to be search> 
+
+
+For the second part of the question (simplesh.c)
+-> Change file path for history accordingly. 

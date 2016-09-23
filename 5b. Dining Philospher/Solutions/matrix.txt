@@ -1,0 +1,6 @@
+Train         East         West        North      South
+
+(NT)            0            0            0            0
+(ET)            0            0            0            0
+(WT)            0            0            0            0
+(ST)            0            0            0            0

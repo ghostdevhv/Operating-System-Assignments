@@ -1,0 +1,15 @@
+To compile the codes:
+
+gcc -o master master.c
+gcc -o sched sched.c
+gcc -o process process.c
+gcc -o mmu mmu.c
+
+Now for execution:
+
+./master k m f
+
+where:
+k is the totol number of process
+m is the max. number of pages required per process
+f is the total no. of frames.
