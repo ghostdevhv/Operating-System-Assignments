@@ -48,7 +48,7 @@ void message_buff_constructor(struct message_buff* A, long mtype, int page_no, i
 {
 	A->mtype=mtype;
 	A->page_no=page_no;
-	A->index=index;
+	A->index = index;
 }
 
 typedef struct mmu_p
